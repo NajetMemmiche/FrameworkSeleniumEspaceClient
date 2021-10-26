@@ -1,0 +1,5 @@
+2021-10-26 21:19:45,278 - com.e2eTests.automation.utils.AbstractPage - INFO - je me connecte sur le site eshop Ooredoo
+2021-10-26 21:20:22,256 - com.e2eTests.automation.utils.AbstractPage - INFO - je saisi username
+2021-10-26 21:20:22,351 - com.e2eTests.automation.utils.AbstractPage - INFO - je saisi le mot de passe
+2021-10-26 21:20:22,434 - com.e2eTests.automation.utils.AbstractPage - INFO - je clique sur le bouton login
+2021-10-26 21:20:22,578 - com.e2eTests.automation.utils.AbstractPage - INFO - je me redirige vers la page Home
